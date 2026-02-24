@@ -44,3 +44,13 @@ Growth at scale requires a centralized technical stack to maintain data integrit
 
 * **The CRM as a Data Hub**: A Customer Relationship Management system acts as the single source of truth, ensuring all teams have the same context on a buyer's state.
 * **Automation as a Force Multiplier**: Beyond simple email sequences, automation should trigger internal record updates and sales notifications based on the intent thresholds defined in the behavioral analysis phase.
+
+---
+
+## V. Technical Infrastructure
+A robust system requires a "Single Source of Truth."
+
+* **The CRM**: The heart of the stack. It centralizes all interactions so the team has full context for every conversation.
+* **Segmentation**:
+    * **Implicit**: What they *do* (behavioral patterns).
+    * **Explicit**: What they *tell* us (form data).
