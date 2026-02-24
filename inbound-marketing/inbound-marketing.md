@@ -54,3 +54,7 @@ A robust system requires a "Single Source of Truth."
 * **Segmentation**:
     * **Implicit**: What they *do* (behavioral patterns).
     * **Explicit**: What they *tell* us (form data).
+
+---
+> **Ready for the Exam?**
+> Check out the [Mastery Challenge](inbound-marketing/mastery-challenge.md) to test your knowledge.
