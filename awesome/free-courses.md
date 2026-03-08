@@ -2,23 +2,23 @@
 
 ---
 
-### 📐 1. Mathematical Foundations (The AI & Systems Logic)
+### 📐 1. Mathematical Foundations
 *Essential for deep understanding of algorithms, distributed systems, and machine learning.*
 
-| Course Name | Level | Subject | Core Insight |
+| Category | Course Name | Level | Content Focus |
 | :--- | :--- | :--- | :--- |
-| [**18.01SC Single Variable Calculus**](https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/) | Intermediate | Mathematics | MIT’s iconic calculus course; prioritizes physical intuition and rigorous proof over rote calculation. |
-| [**18.02SC Multivariable Calculus**](https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/) | High | Mathematics | Master vector fields and higher-dimensional logic. Taught with incredible clarity by Denis Auroux. |
-| [**18.06 Linear Algebra**](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/) | High | Mathematics | The "Bible" of AI. Gilbert Strang teaches matrices as physical subspaces, a prerequisite for Deep Learning. |
-| [**6.041 Probabilistic Systems Analysis**](https://ocw.mit.edu/courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/) | High | Mathematics | Far more rigorous than standard stats; provides the mathematical bedrock for Markov Models in CS50AI. |
-| [**6.042J Mathematics for Computer Science**](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/) | High | Math/CS | **The Discrete Math God-Send**: Covers proofs, graph theory, and number theory. Vital for Stanford CS146S. |
+| Mathematics | [**18.01SC Single Variable Calculus**](https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/) | Intermediate | MIT’s iconic calculus course; prioritizes physical intuition and rigorous proof over rote calculation. |
+| Mathematics | [**18.02SC Multivariable Calculus**](https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/) | High | Master vector fields and higher-dimensional logic. Taught with incredible clarity by Denis Auroux. |
+| Mathematics | [**18.06 Linear Algebra**](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/) | High | The "Bible" of AI. Gilbert Strang teaches matrices as physical subspaces, a prerequisite for Deep Learning. |
+| Mathematics | [**6.041 Probabilistic Systems Analysis**](https://ocw.mit.edu/courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/) | High | Far more rigorous than standard stats; provides the mathematical bedrock for Markov Models in CS50AI. |
+| Math/CS | [**6.042J Mathematics for Computer Science**](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/) | High | **The Discrete Math God-Send**: Covers proofs, graph theory, and number theory. Vital for Stanford CS146S. |
 
 ---
 
-### 🧪 2. Hard Sciences (Honors & Interdisciplinary)
+### 🧪 2. Hard Sciences
 *Combining Honors-level depth with the aesthetic "Science of Cooking" approach.*
 
-| Category | Course Name | Level | God-Tier Quality |
+| Category | Course Name | Level | Content Focus |
 | :--- | :--- | :--- | :--- |
 | **Physics** | [**8.01SC Classical Mechanics**](https://ocw.mit.edu/courses/8-01sc-classical-mechanics-fall-2016/) | **Honors** | **Honors Physics**: Walter Lewin's legendary demonstrations—physics as a high-contact sport. |
 | **Physics** | [**Physics for Future Presidents**](https://muller.lbl.gov/teaching/physics10/pfp.html) | Intermediate | Muller strips away the math to reveal the brutal physical logic behind global energy and security. |
@@ -29,17 +29,17 @@
 
 ---
 
-### 🏛️ 3. Philosophy & Social Theory (The Top 6)
+### 🏛️ 3. Philosophy & Social Theory
 *High-intensity dialectics and analysis of the human condition.*
 
-| Course Name | Level | Subject | Core Insight |
+| Category | Course Name | Level | Content Focus |
 | :--- | :--- | :--- | :--- |
-| [**Justice: What's the Right Thing to Do?**](https://www.justiceharvard.org/) | Intermediate | Philosophy | Michael Sandel’s masterclass in moral reasoning. A global benchmark for interactive lecturing. |
-| [**PHIL 176: Death**](https://oyc.yale.edu/philosophy/phil-176) | High | Philosophy | Shelly Kagan sits on his desk and dismantles the dualist concept of the soul using cold, hard logic. |
-| [**SOCY 151: Foundations of Modern Social Theory**](https://oyc.yale.edu/sociology/socy-151) | High | Sociology | The "Source Code" of modern society. Deep dives into Marx, Weber, and Durkheim's structural logic. |
-| [**General Philosophy (Oxford)**](https://podcasts.ox.ac.uk/series/general-philosophy) | High | Philosophy | Peter Millican provides the purest training in analytical philosophy and logical argumentation. |
-| [**PHIL 181: Philosophy & Science of Human Nature**](https://oyc.yale.edu/philosophy/phil-181) | Intermediate | Philosophy | Marrying Plato with modern cognitive science to explain moral intuitions and habits. |
-| [**PSYC 110: Introduction to Psychology**](https://oyc.yale.edu/introduction-psychology/psyc-110/) | Intermediate | Psychology | Paul Bloom explores the hardware of the mind—evolution, perception, and the logic of empathy. |
+| Philosophy | [**Justice: What's the Right Thing to Do?**](https://www.justiceharvard.org/) | Intermediate | Michael Sandel’s masterclass in moral reasoning. A global benchmark for interactive lecturing. |
+| Philosophy | [**PHIL 176: Death**](https://oyc.yale.edu/philosophy/phil-176) | High | Shelly Kagan sits on his desk and dismantles the dualist concept of the soul using cold, hard logic. |
+| Sociology | [**SOCY 151: Foundations of Modern Social Theory**](https://oyc.yale.edu/sociology/socy-151) | High | The "Source Code" of modern society. Deep dives into Marx, Weber, and Durkheim's structural logic. |
+| Philosophy | [**General Philosophy (Oxford)**](https://podcasts.ox.ac.uk/series/general-philosophy) | High | Peter Millican provides the purest training in analytical philosophy and logical argumentation. |
+| Philosophy | [**PHIL 181: Philosophy & Science of Human Nature**](https://oyc.yale.edu/philosophy/phil-181) | Intermediate | Marrying Plato with modern cognitive science to explain moral intuitions and habits. |
+| Psychology | [**PSYC 110: Introduction to Psychology**](https://oyc.yale.edu/introduction-psychology/psyc-110/) | Intermediate | Paul Bloom explores the hardware of the mind—evolution, perception, and the logic of empathy. |
 
 ---
 
